@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1790609841 source:c:\users\hp\desktop\ilisi 2\mr.bouziri\pileliste\pilesdll\piles.cpp
+	"PileListe.h"
+	"PileTableau.h"
+
+1790607851 c:\users\hp\desktop\ilisi 2\mr.bouziri\pileliste\pilesdll\pileliste.h
+	<iostream>
+	"export.h"
+
+1790607686 c:\users\hp\desktop\ilisi 2\mr.bouziri\pileliste\pilesdll\export.h
+
+1790609661 c:\users\hp\desktop\ilisi 2\mr.bouziri\pileliste\pilesdll\piletableau.h
+	<iostream>
+	"export.h"
+
